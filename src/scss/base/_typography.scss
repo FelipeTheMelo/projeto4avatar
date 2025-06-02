@@ -1,0 +1,13 @@
+body {
+    font-family: var(--font);
+    color: var(--white);
+    background-color: var(--blue-dark);
+    line-height: 1.6;
+}
+h1, h2, h3 {
+    color: var(--blue-light);
+    margin-bottom: 0.5em;
+}
+p {
+    color: var(--gray);
+}

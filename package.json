@@ -1,0 +1,20 @@
+{
+  "name": "avatar-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page profissional do filme Avatar",
+  "main": "index.html",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^6.1.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-dart-sass": "^1.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.89.1"
+  }
+}

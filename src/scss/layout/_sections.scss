@@ -1,0 +1,25 @@
+.atracoes, .planos, .dispositivos, .faq {
+    padding: 60px 20px;
+    text-align: center;
+}
+.planos__cards {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+.plano {
+    background-color: var(--blue);
+    padding: 1rem 2rem;
+    border-radius: 8px;
+}
+details {
+    margin-top: 1rem;
+    background-color: var(--blue);
+    padding: 1rem;
+    border-radius: 8px;
+}
+details summary {
+    cursor: pointer;
+    font-weight: bold;
+}

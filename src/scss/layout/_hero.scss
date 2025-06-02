@@ -1,0 +1,23 @@
+.hero {
+    background: url('../images/bg.jpg') no-repeat center center/cover;
+    padding: 100px 20px;
+    text-align: center;
+}
+.hero__content h1 {
+    font-size: 3rem;
+}
+
+.hero__content h1 p {
+    margin-bottom: 32px;
+}
+
+.btn {
+    margin-top: 1rem;
+    padding: 0.8rem 1.5rem;
+    background-color: var(--blue-light);
+    color: var(--blue-dark);
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+}
